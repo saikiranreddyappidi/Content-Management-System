@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Create New Article</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 
